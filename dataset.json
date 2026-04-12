@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Upland, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Upland, California, US",
+  "export_job_id": "79491fba-b1c9-4a93-a7c0-4dbca58d4aba",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 437695,
+  "location_name": "Upland",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-upland-california-us-sample-437695",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/437695/beamstation_437695_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.47,
+  "sample_records": 16,
+  "sample_sha256": "a07d5f5efd8504124733cc6a4a0496105179c943451078ff19b81e37b888abb1",
+  "sample_size_bytes": 77886,
+  "total_records": 169,
+  "updated_at": "2026-04-09T12:52:38.706035+00:00"
+}
