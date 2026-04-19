@@ -1,6 +1,6 @@
 # All Restaurants in Upland, California, US
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `437695` |
 | Location | Upland |
 | Category | Restaurants |
-| Full dataset size | 169 records |
-| Free sample size | 16 records (9.47%) |
-| Last export | 2026-04-09T12:52:38.706035+00:00 |
+| Full dataset size | 174 records |
+| Free sample size | 17 records (9.77%) |
+| Last export | 2026-04-16T12:56:51.591867+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-upland-california-us-sample-437695/releases/download/sample-latest/beamstation_437695_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
