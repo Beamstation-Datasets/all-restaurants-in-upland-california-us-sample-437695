@@ -1,12 +1,12 @@
 {
-  "export_job_id": "83259274-3bdc-4acd-96e1-bce230323651",
+  "export_job_id": "9cea62b7-2ab9-4f92-a991-4961671c9146",
   "id_short": 437695,
-  "published_at": "2026-04-23T19:20:03Z",
+  "published_at": "2026-04-30T19:18:54Z",
   "repo_name": "all-restaurants-in-upland-california-us-sample-437695",
   "sample_asset_name": "beamstation_437695_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/437695/beamstation_437695_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "d8858a50474919f3757a4072bce927f162cd0c69d6bc4ff6b6139bafeb4922bb",
-  "sample_size_bytes": 64375,
-  "total_records": 156
+  "sample_records": 17,
+  "sample_sha256": "9dd75782ed596cefa48f4bd22ed475d958c48a216398d2346af74e3645d6fd80",
+  "sample_size_bytes": 78578,
+  "total_records": 171
 }
